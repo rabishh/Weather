@@ -1,0 +1,18 @@
+.box{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    width:100vw;
+    background:url('https://th-thumbnailer.cdn-si-edu.com/_fo23UThzt2yYi8vrV0jcafbQ3Q=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/25/f0/25f08cff-0355-4001-86ad-28950a866af4/grandteton.jpg');
+    /* background-repeat:no-repeat; */
+    background-size:135vh;
+}
+.input{
+    background-color:aqua;
+    height:40vh;
+    width:30vw;
+    border-radius: 3rem;
+    background:url('https://wallpaperaccess.com/full/2198684.jpg');
+    background-size:auto;
+}
